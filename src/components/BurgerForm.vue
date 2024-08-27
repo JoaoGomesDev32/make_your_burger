@@ -85,7 +85,7 @@
   
         console.log(res)
   
-        this.msg = "Pedido realizado com sucesso!"
+        this.msg = `Pedido Nº ${res.id} realizado com sucesso!`
   
         // clear message
         setTimeout(() => this.msg = "", 3000)
