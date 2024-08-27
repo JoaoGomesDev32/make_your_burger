@@ -19,7 +19,6 @@
         display: flex;
         align-items: center;
         justify-content: flex-start;
-        background-repeat: no-repeat;
     }
 
     #main-banner h1 {
