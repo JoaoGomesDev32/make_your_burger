@@ -87,7 +87,7 @@
         "Salame",
         "Cebola roxa"
       ],
-      "status": "Finalizado",
+      "status": "Em produção",
       "id": "1"
     },
     {
@@ -98,7 +98,7 @@
         "Salame",
         "Cebola roxa"
       ],
-      "status": "Solicitado",
+      "status": "Em produção",
       "id": "4"
     },
     {
@@ -110,40 +110,7 @@
         "Bacon",
         "Cheddar"
       ],
-      "status": "Solicitado"
-    },
-    {
-      "id": "9de5",
-      "nome": "João",
-      "carne": "Alcatra",
-      "pao": "Parmesão e Orégano",
-      "opcionais": [
-        "Pepino",
-        "Tomate"
-      ],
-      "status": "Solicitado"
-    },
-    {
-      "id": "8b40",
-      "nome": "Denize",
-      "carne": "Veggie burger",
-      "pao": "Integral",
-      "opcionais": [
-        "Cebola roxa",
-        "Tomate",
-        "Pepino"
-      ],
-      "status": "Solicitado"
-    },
-    {
-      "id": "65bb",
-      "nome": "Joaquina",
-      "carne": "Alcatra",
-      "pao": "3 Queijos",
-      "opcionais": [
-        "Bacon"
-      ],
-      "status": "Solicitado"
+      "status": "Finalizado"
     }
   ]
 }
